@@ -1,0 +1,2 @@
+# free-hwid
+hwid
